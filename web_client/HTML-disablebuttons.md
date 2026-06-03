@@ -12,7 +12,7 @@ This form is disabled and can not be used. It’s up to you to find a way to use
 ### Then just go trough to the code, search for the functions who got disabled and erase it : 
   <img width="1000" height="378" alt="2" src="https://github.com/user-attachments/assets/315d3a5f-1c0c-4f06-87d6-abd1922ff952" />
 
-### Boom now you could click it, type anything the click the button and you got :
+### Boom!!! now you could click it, type anything then click the "Member access"'s button and you got :
 <img width="1002" height="378" alt="3" src="https://github.com/user-attachments/assets/ae0125b3-bda8-40e7-af3d-6d32b7f80597" />
 
 ## the flag is : 
