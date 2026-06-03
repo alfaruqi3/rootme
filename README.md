@@ -1,6 +1,7 @@
 # Root-Me Walkthroughs
 
-This repository contains my personal write-ups and walkthroughs for challenges from Root-Me.
+This repository contains my personal write-ups and walkthroughs for challenges from Root-Me.org
+Walkthroughs and write-ups for Root-Me CTF challenges, including solutions, methodologies, and learning notes.
 
 ## Objectives
 - Document challenge-solving methodologies
