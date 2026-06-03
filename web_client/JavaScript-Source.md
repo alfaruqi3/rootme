@@ -29,7 +29,7 @@ Curl -i <url>
 ## result 
 <img width="998" height="464" alt="3" src="https://github.com/user-attachments/assets/855f471d-9f78-4814-9137-0988bfec3be6" />
 
-## See that is the password use it and you will get the flag!!!
+## See that is the password, use it and you will get the flag!!!
 
 
 
